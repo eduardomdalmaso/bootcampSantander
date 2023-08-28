@@ -1,10 +1,15 @@
-# bootcampSantander
-Bootcamp Santander pela Dio
+# Bootcamp Santander pela Dio
 
-Esse notebook aplica o básico de ETL.
+Este notebook aplica o básico de ETL.
 
-Extraio de um CSV informações sobre pokemons.
+## Extração
 
-Transformo os dados para obter todos os pokemons com HP > 50
+Extrai de um CSV informações sobre Pokémons.
 
-Guardo essa informação em outro CSV
+## Transformação
+
+Transforma os dados para obter todos os Pokémons com HP > 50.
+
+## Carga
+
+Guarda essa informação em outro CSV.
